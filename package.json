@@ -22,5 +22,13 @@
   "description": "a helloworld component",
   "main": "hello.js",
   "author": "Ridge O <ridge@platypusindustries.com> (http://platypus.is)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridgeO/helloworld.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ridgeO/helloworld/issues"
+  },
+  "homepage": "https://github.com/ridgeO/helloworld#readme"
 }
